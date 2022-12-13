@@ -1,2 +1,3 @@
 # Projeto Kine
- Um projeto iniciante em colaboração para estudos
+***
+ Projeto com intuito de aprendizado na área de **web developer**
